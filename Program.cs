@@ -11,7 +11,7 @@ namespace Covid
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
-		/// изменения 12322!!!
+		/// изменения 333333!!!
         [STAThread]
         static void Main()
         {
